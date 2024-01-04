@@ -14,7 +14,8 @@ An overview of development process:
 5. eksplorasi penggunaan ObservableHQ.
 6. pengmbangan visualisasi data menggunakan ObservableHQ.
 7. mengembangkan halaman html sederhana, yang didalamnya menggunakan element embeded dari ObservableHQ. jadi setelah visualisasi data bersahsil dikembangkan pada ObservableHQ. visualisasi tersebut dapat dijadikan element embeded. dimana elemenet tersebut dapat digunakan di code html manapun dan tetap menampilkan visualisasi data yang telah dibuat sebelumnya di ObservableHQ.
-8. setelah halaman selesai, file html di push ke github.
+8. setelah halaman selesai, file html di push ke github dan di deploy di github.
+9. berikut adalah link untuk final project yang telah dideploy: https://footman2017.github.io/movie_statictic_explorer/
 
 pengembangan final project ini saya lakukan seorang diri, kira kira dengan total estimasi waktu yang dibutuhkan hingga push ke github yaitu 6 jam. dan proses yang paling banyak memakan waktu adalah saat eksplorasi platform ObservableHQ.
 
